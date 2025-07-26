@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>The second lesson! </title>
+</head>
+
+<body>
+    <!-- just text -->
+    <!-- This is a comment!-->
+    <h1> This is our second webpage</h1>
+    <!-- Let's increase the size of this! -->
+
+    <p style="height: 50px;width:500px;color:beige;background-color:purple">This is a paragraph!</p>
+    
+    <div>
+        <p>I carry the content for your page!</p>
+        <h2> The second order of headers</h2>
+        <h3>The third order of headers!</h3>
+        <h4>The fourth order of the header!</h4>
+
+        <img src="./step.jpg" />
+    </div>
+</body>
+
+</html>
